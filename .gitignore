@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 # Logs
 logs
 *.log
@@ -129,6 +132,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 =======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
@@ -154,3 +158,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 >>>>>>> 9089f122305d747850568c43250a5f045cfbaceb
+=======
+>>>>>>> origin/main
