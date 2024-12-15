@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -19,6 +20,19 @@ function App() {
         </a>
       </header>
     </div>
+=======
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Boot from "../src/components/boot.jsx";
+
+function App() {
+  return (
+    <>
+      <header>
+        <Boot />
+      </header>
+    </>
+>>>>>>> 9089f122305d747850568c43250a5f045cfbaceb
   );
 }
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
 }
@@ -36,3 +37,13 @@
     transform: rotate(360deg);
   }
 }
+=======
+header {
+  height: 810px;
+  width: 100vw;
+  background-image: url('./assets/images/Path.png');
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-attachment: fixed;
+}
+>>>>>>> 9089f122305d747850568c43250a5f045cfbaceb

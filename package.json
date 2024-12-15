@@ -1,10 +1,21 @@
 {
+<<<<<<< HEAD
   "name": "bootstrap-landing-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
+=======
+  "name": "landingpage-boot",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "cra-template": "1.2.0",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.6",
+>>>>>>> 9089f122305d747850568c43250a5f045cfbaceb
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
